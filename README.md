@@ -9,3 +9,13 @@ Unfortunately, limitations on the IPOD chip-set do not allow Rockbox to read 24 
 User can also select MP3 as an option instead of FLAC as a file format to convert to.
 
 This is a pretty specific use case. There are hundreds of audio conversion tools out there. This one was written specifically to solve the problem of 24 bit files in the Rock-boxed IPOD
+
+
+Install 
+Host computer must have the following:
+
+Python 3 with the following libraries. 
+tkinter
+shutil
+threading
+mutagen
